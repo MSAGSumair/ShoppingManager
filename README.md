@@ -1,2 +1,1 @@
 # ShoppingManager
-Just 
